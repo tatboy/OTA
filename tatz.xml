@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <zl1>
+            <Filename>RB-OREO-1.6-20180210-zl1-Official.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download ResurrectionRemix builds">https://drive.google.com/drive/folders/1EewZumQWdgF3J05He76YNyaS_eN2v_fe/RB-OREO-1.6-20180210-zl1-Official.zip</RomUrl>
+           <OpenGappsUrl
+            	id="open_gapps"
+            	title="Open Gapps"
+            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+	</zl1>
+	<mata>
+            <Filename>RB-OREO-1.6-20180210-zl1-Official.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download ResurrectionRemix builds">https://drive.google.com/drive/folders/1EewZumQWdgF3J05He76YNyaS_eN2v_fe/RB-OREO-1.6-20180210-zl1-Official.zip</RomUrl>
+           <OpenGappsUrl
+            	id="open_gapps"
+            	title="Open Gapps"
+            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+	</mata>
+    </Stable>
+</SlimOTA>
