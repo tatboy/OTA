@@ -17,11 +17,11 @@
             	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
 	</mata>
 	<zl1>
-            <Filename>RB-OREO-1.6-20180220-zl1-Official.zip</Filename>
+            <Filename>RB-OREO-1.6-20180224-zl1-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download RootBox builds">https://drive.google.com/drive/folders/1Os-sHu-4no4fi_6CWEE1pYJj5yeS2l5K/RB-OREO-1.6-20180220-zl1-Official.zip</RomUrl>
+                description="Download RootBox builds">https://drive.google.com/drive/folders/1Os-sHu-4no4fi_6CWEE1pYJj5yeS2l5K/RB-OREO-1.6-20180224-zl1-Official.zip</RomUrl>
 	    <OpenGappsUrl
             	id="open_gapps"
             	title="Open Gapps"
